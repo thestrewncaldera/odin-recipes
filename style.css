@@ -13,6 +13,7 @@ body {
     background-color: rgb(60, 211, 60);
     font-weight: bold;
     list-style: none;
+    padding: 0;
 }
 
 a:link {
@@ -29,3 +30,4 @@ a:hover {
 
 a:active {
     color: blue;
+}
