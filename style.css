@@ -16,18 +16,18 @@ body {
     padding: 0;
 }
 
-a:link {
+.test:link {
     color: black;
 }
 
-a:visited {
+.test:visited {
     color: black;
 }
 
-a:hover {
+.test:hover {
     color: red;
 }
 
-a:active {
+.test:active {
     color: blue;
 }
