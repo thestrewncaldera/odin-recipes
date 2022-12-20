@@ -25,9 +25,9 @@ body {
 }
 
 .test:hover {
-    color: red;
+    color: rgb(126, 38, 38);
 }
 
 .test:active {
-    color: blue;
+    color: rgb(255, 255, 255);
 }
