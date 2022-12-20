@@ -8,9 +8,11 @@ h1 {
     text-align: center;
 }
 
-a{
+.home-page{
     display:block;
-    text-align:right;
+    text-align:center;
+    background-color: rgb(60, 211, 60);
+    font-weight: bold;
     }
 
 .options {
