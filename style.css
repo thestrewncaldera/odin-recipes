@@ -6,7 +6,7 @@ body {
     background-color: black;
 }
 
-.header-main {
+h1 {
     background-color: rgb(60, 211, 60);
     text-align: center;
 }
@@ -38,4 +38,8 @@ body {
 img {
     height: auto;
     width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
