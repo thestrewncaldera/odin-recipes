@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+.header-main {
+    background-color: rgb(60, 211, 60);
+    text-align: center;
+}
+
+.options {
+    text-align: center;
+    background-color: rgb(60, 211, 60);
+    font-weight: bold;
+    list-style: none;
+    background-position: 0%;
+}
