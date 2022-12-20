@@ -13,5 +13,19 @@ body {
     background-color: rgb(60, 211, 60);
     font-weight: bold;
     list-style: none;
-    background-position: 0%;
 }
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: blue;
